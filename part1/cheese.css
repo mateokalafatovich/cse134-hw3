@@ -1,0 +1,18 @@
+/* 
+  Mateo Kalafatovich 
+  HW3 url: https://github.com/mateokalafatovich/cse134-hw3 
+*/
+
+body {
+    font-family: sans-serif;
+    color: rgb(0, 9, 129);
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1rem;
+}
